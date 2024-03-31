@@ -27,8 +27,8 @@ This assignment is designed to provide practical experience with network configu
 
 2. **Clone the Assignment Repository** (Assuming the repository URL is provided; adjust as necessary):
     ```bash
-    git clone 
-    cd assignment-directory
+    git clone https://github.com/Gooowan/nc_assignment2
+    cd nc_assignment2
     ```
 
 3. **Run the Setup Script**:
